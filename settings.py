@@ -15,10 +15,6 @@ DATABASES = {
     }
 }
 
-DEBUG = True
-
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
-
 USE_TZ = False
 
 INSTALLED_APPS = ("db",)
